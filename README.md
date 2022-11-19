@@ -26,13 +26,9 @@
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=FF0000)](https://t.me/FrolovAndrey24)
-
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289da)](https://discordapp.com/users/720222296777687171/)
-
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=4267B2)](https://www.facebook.com/andrey.frolov.73307/)
-
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=c7d5e0)](https://steamcommunity.com/id/Bender_Rodriguez24/)
-
 [![ArtStation](https://img.shields.io/badge/-ArtStation-090909?style=for-the-badge&logo=ArtStation&logoColor=25D6FC)](https://www.artstation.com/f_andrey)
 
 <br />
@@ -41,7 +37,6 @@
   <summary>:zap: Statistics:</summary>
    <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolov-Andrey2405&langs_count=8&layout=compact" />
-    <br />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Frolov-Andrey2405&show_icons=true" />
 </details>
