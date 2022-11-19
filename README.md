@@ -5,8 +5,6 @@
 - 🎉 My hobbies are 3D, chess ♟
 - 🥅 I'm always learning new things
 
-<br />
-
 ### Languages and Tools:
 
 
