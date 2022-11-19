@@ -1,12 +1,19 @@
-### Hi there 👋, I'm Andrey
+### Hi there, I'm Andrey 👋
 
 ## I'm a Back-end development 
-- 💪 I like to write code
+- 💪 I like to write code 
 - 🎉 My hobbies are 3D, chess ♟
-- 🥅 I'm always learning new things
+- 🤔 I'm always learning new things
+- 💡 I'd be glad to get some good advice
+
+### My reading of literature 📚:
+- 📔 "Python Crash Course: A Hands-On, Project-Based Introduction to Programming", by Eric Matthes
+- 📘 "Python Tricks: A Buffet of Awesome Python Features", by Dan Bader
+- 📓 "#The Self-taught Programmer: The Definitive Guide to Programming Professionally", by Cory Althoff
+- 📗 "Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More Kindle Edition", by Julien Danjou 
+- 📕 "Fluent Python: Clear, Concise, and Effective Programming", by Luciano Ramalho
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -18,8 +25,13 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
 
 ### Connect with me:
 
