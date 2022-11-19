@@ -43,7 +43,7 @@
 
 
 [telegram]: t.me/FrolovAndrey24
-[discird]: https://discordapp.com/users/720222296777687171/
+[discord]: https://discordapp.com/users/720222296777687171/
 [steam]: https://steamcommunity.com/id/Bender_Rodriguez24/
 [artstation]: https://www.artstation.com/f_andrey
 
