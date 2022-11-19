@@ -38,7 +38,7 @@
 <br />
 
 <details>
-  <summary>:zap: **Statistics**:</summary>
+  <summary>:zap: Statistics:</summary>
    <br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolov-Andrey2405&langs_count=8&layout=compact" />
     <br />
