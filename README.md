@@ -28,6 +28,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=4267B2)](https://www.facebook.com/andrey.frolov.73307/)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=c7d5e0)](https://steamcommunity.com/id/Bender_Rodriguez24/)
 [![ArtStation](https://img.shields.io/badge/-ArtStation-090909?style=for-the-badge&logo=ArtStation&logoColor=25D6FC)](https://www.artstation.com/f_andrey)
+[![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=EA4335)](frolov.andrey2405@gmail.com)
 
 <br />
 
