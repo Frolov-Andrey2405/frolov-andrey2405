@@ -12,7 +12,7 @@
 - 📓 "#The Self-taught Programmer: The Definitive Guide to Programming Professionally", by Cory Althoff
 - 📗 "Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More Kindle Edition", by Julien Danjou 
 - 📕 "Fluent Python: Clear, Concise, and Effective Programming", by Luciano Ramalho
-- 📙 "Python, Django and PyCharm for beginners", by Anatoly Postolit
+- 📙 **"Python, Django and PyCharm for beginners", by Anatoly Postolit**
 
 ### Languages and Tools:
 
@@ -37,8 +37,6 @@
 ### My Certificates: 
 - **[Sololearn(Python Core)](https://www.sololearn.com/Certificate/CT-X4VJGTPN/png)**
 - **[Sololearn(HTML)](https://www.sololearn.com/Certificate/CT-SPCQUBAP/png)**
-
-<br />
 
 ### Connect with me:
 
