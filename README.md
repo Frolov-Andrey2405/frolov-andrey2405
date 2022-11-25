@@ -9,7 +9,7 @@
 <!-- Languages and Tools -->
 <h2 style="color: #000000">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
-    <img width="300px" alt="Programming Languages" src="https://cdn.dribbble.com/users/759099/screenshots/2915547/media/7341bcadc70e847a94b94068be0531ed.gif"/></div>
+    <img width="300px" alt="Programming Languages" src="https://onepatch.com/wp-content/uploads/2022/03/WEB_BACK_END_DEV.gif"/></div>
 
 <!-- Icons Resources -->
 <div align="center">
