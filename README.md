@@ -45,7 +45,7 @@
 <!-- Literature -->
 <h2 style="color: #000000">📚 Reading of literature</h2>
 <div align="center" style="display:block;">
-    <img width="200px" alt="Literature" src="https://media.baamboozle.com/uploads/images/111201/1653949969_72727_gif-url.gif"/></div>
+    <img width="200px" alt="Programming Languages" src="https://media.baamboozle.com/uploads/images/111201/1653949969_72727_gif-url.gif"/></div>
 
 - 📔 "Python Crash Course: A Hands-On, Project-Based Introduction to Programming", by Eric Matthes
 - 📘 "Python Tricks: A Buffet of Awesome Python Features", by Dan Bader
