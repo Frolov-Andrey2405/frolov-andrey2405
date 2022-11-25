@@ -9,7 +9,7 @@
 <!-- Languages and Tools -->
 <h2 style="color: #000000">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
-    <img width="300px" alt="Programming Languages" src="https://onepatch.com/wp-content/uploads/2022/03/WEB_BACK_END_DEV.gif"/></div>
+    <img width="400px" alt="Programming Languages" src="https://onepatch.com/wp-content/uploads/2022/03/WEB_BACK_END_DEV.gif"/></div>
 
 <!-- Icons Resources -->
 <div align="center">
@@ -44,8 +44,8 @@
 
 <!-- Literature -->
 <h2 style="color: #000000">📚 Reading of literature</h2>
-<div align="left" style="text-align: start;">
-    <img width="500px" alt="Books" src="https://milkweed.org/sites/default/files/Subscription-Books-talk-bws.gif"/>
+<div align="center" style="display:block;">
+    <img width="200px" alt="Literature" src="https://media.baamboozle.com/uploads/images/111201/1653949969_72727_gif-url.gif"/></div>
 
 - 📔 "Python Crash Course: A Hands-On, Project-Based Introduction to Programming", by Eric Matthes
 - 📘 "Python Tricks: A Buffet of Awesome Python Features", by Dan Bader
