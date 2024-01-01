@@ -136,6 +136,7 @@ I am an avid consumer of free courses on platforms like YouTube, Sololearn, and 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frolov-Andrey2405&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Frolov-Andrey2405?theme=dark)
 </div>
 <!--  End Stats Cards -->
 
