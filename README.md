@@ -23,90 +23,101 @@ I am an avid consumer of free courses on platforms like YouTube, Sololearn, and 
 <!-- Icons Resources -->
 <div align="center">
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</a>
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img  alt="Django" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img  alt="Django" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+</a>
 
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-      <img  alt="Django REST framework" height="50px" style="padding-right:10px;"src="https://www.django-rest-framework.org/img/logo.png"/>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+    <img  alt="Django REST framework" height="50px" style="padding-right:10px;"src="https://www.django-rest-framework.org/img/logo.png">
+</a>
 
-  <a href="https://html.com/" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
+<a href="https://html.com/" target="_blank" rel="noreferrer">
+    <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+</a>
 
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"/>
-  </a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"/>
+</a>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tailwind CSS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"/>
-  </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img  alt="Tailwind CSS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"/>
+</a>
 
-  <a href="PostCSS" target="_blank" rel="noreferrer">
-      <img  alt="PostCSS" height="50px" style="padding-right:10px;" src="https://postcss.org/assets/postcss-rBJUTTlj.svg"/>
-  </a>
+<a href="https://postcss.org/" target="_blank" rel="noreferrer">
+    <img  alt="PostCSS" height="50px" style="padding-right:10px;" src="https://postcss.org/assets/postcss-rBJUTTlj.svg"/>
+</a>
 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+</a>
 
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-      <img  alt="Node.js" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg"/>
-  </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img  alt="Node.js" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg"/>
+</a>
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-      <img  alt="React" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
-  </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img  alt="React" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"/>
+</a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg"/>
-  </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg"/>
+</a>
 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img  alt="PostgreSQL" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>
-  </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img  alt="PostgreSQL" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>
+</a>
 
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-plain.svg"/>
-  </a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img  alt="SQLite" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-plain.svg"/>
+</a>
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg"/>
-  </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img  alt="Bootstrap" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg"/>
+</a>
 
-  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"/>
-  </a>
+<a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
+    <img  alt="Docker" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg"/>
+</a>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg"/>
-  </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img  alt="Git" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg"/>
+</a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img  alt="SQL" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
-  </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img  alt="GitHub" height="50px" style="padding-right:10px;"src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
+</a>
 
-  <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer">
-      <img  alt="Terminal" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-  </a>
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd" target="_blank" rel="noreferrer">
+    <img  alt="Terminal" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+</a>
 
-  <a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
-      <img  alt="Terminal" height="50px" style="padding-right:10px;" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"/>
-  </a>
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank" rel="noreferrer">
+    <img  alt="Celery" height="50px" style="padding-right:10px;" src="https://docs.celeryq.dev/en/stable/_static/celery_512.png"/>
+</a>
 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-      <img  alt="Terminal" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-plain.svg"/>
-  </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img  alt="Redis" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-plain.svg"/>
+</a>
+
+<a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img  alt="Stripe" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-512/free-stripe-2-498440.png"/>
+</a>
+
+<a href="https://aws.amazon.com/ru/" target="_blank" rel="noreferrer">
+    <img  alt="AWS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original.svg"/>
+</a>
 
 </div>
 
 <!-- Literature -->
 <h2 style="color: #000000">📚 Reading of literature</h2>
 <div align="center" style="display:block;">
-    <img width="200px" alt="List of references" src="https://media.baamboozle.com/uploads/images/111201/1653949969_72727_gif-url.gif"/></div>
+    <img width="200px" alt="List of references" src="https://media.baamboozle.com/uploads/images/111201/1653949969_72727_gif-url.gif"/>
+</div>
 
 - 📔 **["Python Crash Course: A Hands-On, Project-Based Introduction to Programming", by Eric Matthes](http://surl.li/jimbs)**
 
@@ -120,7 +131,7 @@ I am an avid consumer of free courses on platforms like YouTube, Sololearn, and 
 
 - 📙 **["Python, Django, and PyCharm for beginners", by Anatoly Postolit](http://surl.li/jimch)**
 
-- 📙 **["The Big Book of Small Python Projects: 81 Easy Practice Programs", Al Sweigart](http://surl.li/olrgp)**
+- 📒 **["The Big Book of Small Python Projects: 81 Easy Practice Programs", Al Sweigart](http://surl.li/olrgp)**
 
 </div>
 <br>
@@ -143,8 +154,8 @@ I am an avid consumer of free courses on platforms like YouTube, Sololearn, and 
 <!-- Certificates -->
 <h2 style="color: #000000">🏅 Certificates:</h2>
 
-| Resource  | Certificate                                                  | Link                                                                                                                        |
-| --------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Resource | Certificate | Link |
+| -------- | ----------- | -----|
 | Sololearn | Python for Beginners                                         | [Certificate](https://www.sololearn.com/Certificate/CT-URY19Q66/png)                                                        |
 | Sololearn | Python Core                                                  | [Certificate](https://www.sololearn.com/Certificate/CT-X4VJGTPN/png)                                                        |
 | Sololearn | Intermediate Python                                          | [Certificate](https://www.sololearn.com/Certificate/CT-MATBIWOE/png)                                                        |
